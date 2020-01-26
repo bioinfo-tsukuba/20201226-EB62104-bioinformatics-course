@@ -8,3 +8,15 @@
 - [01_計算機の準備](01_計算機の準備.md)
 - [02_ソフトウェアのインストール](02_ソフトウェアのインストール.md)
 - [午前の実習](tutorial)
+
+
+```
+cd
+
+# yes/no と出てきたら yes
+git clone git@github.com:bioinfo-tsukuba/20201226-EB62104-bioinformatics-course.git
+
+cd 20201226-EB62104-bioinformatics-course/
+
+jupyter notebook
+```
