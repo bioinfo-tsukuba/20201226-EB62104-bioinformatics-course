@@ -14,7 +14,7 @@
 cd
 
 # yes/no と出てきたら yes
-git clone git@github.com:bioinfo-tsukuba/20201226-EB62104-bioinformatics-course.git
+git clone https://github.com/bioinfo-tsukuba/20201226-EB62104-bioinformatics-course.git
 
 cd 20201226-EB62104-bioinformatics-course/
 
