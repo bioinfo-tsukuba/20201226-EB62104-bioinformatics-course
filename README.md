@@ -20,3 +20,12 @@ cd 20201226-EB62104-bioinformatics-course/
 
 jupyter notebook
 ```
+
+## 午後の実習
+
+
+
+
+
+#### 発展課題
+
