@@ -23,7 +23,7 @@ jupyter notebook
 
 ## 午後の実習
 
-
+[実習](実習.md)
 
 
 
